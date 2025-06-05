@@ -32,6 +32,9 @@ struct ContentView: View {
                     .foregroundStyle(.cyan)
             }
         }
-        
+        Text("If you'd like to get in touch, feel free to contact me through the links below!")
+let url = URL(string: "https://github.com/sterlaen")
+let url = URL(string: "https://scratch.mit.edu/users/sterlaen/")
+let url = URL(string: "mailto:kaplonn7@gmail.com")
     }
 }
