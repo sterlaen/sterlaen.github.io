@@ -21,7 +21,7 @@ def guess_number():
 
 guess_number()
 
-print("If you'd like to get in touch, feel free to contact me through the links below!")
+print("if you'd like to get in touch, feel free to contact me through the links below!")
 print("https://github.com/sterlaen")
 print("https://scratch.mit.edu/users/sterlaen/")
 print("mailto:kaplonn7@gmail.com")

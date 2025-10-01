@@ -77,7 +77,7 @@ struct ContentView: View {
                 Rectangle()
             }
         }
-        Text("If you'd like to get in touch, feel free to contact me through the links below :)")
+        Text("if you'd like to get in touch, feel free to contact me through the links below!")
             .padding()
 let url = URL(string: "https://github.com/sterlaen")
 let url = URL(string: "https://scratch.mit.edu/users/sterlaen/")
